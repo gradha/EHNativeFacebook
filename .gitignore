@@ -1,0 +1,16 @@
+# Any path pattern.
+*.diff
+*.mode1v3
+*.orig
+*.pbxuser
+*.perspective
+*.perspectivev3
+*.swp
+.DS_Store
+project.xcworkspace/
+xcuserdata/
+
+# Absolute paths.
+/build/
+/docs/*.html
+/tags
