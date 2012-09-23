@@ -6,7 +6,7 @@
 #define _ALERT_MESSAGE	@"Could not obtain facebook composer class, sorry!"
 #define _ALERT_TITLE	@"Facebook not available"
 #define _CANCEL_BUTTON	@"Meh"
-#define _TEXT			@"Look ma, no Social Framework linked and but posting on Facebook compiled on a previous SDK version"
+#define _TEXT			@"Look ma, no Social Framework linked and posting on Facebook possibly compiled on a previous SDK version"
 #define _URL			@"https://github.com/gradha/EHNativeFacebook"
 
 
