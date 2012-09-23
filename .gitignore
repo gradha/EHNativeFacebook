@@ -13,4 +13,5 @@ xcuserdata/
 # Absolute paths.
 /build/
 /docs/*.html
+/docs/README_main.rst
 /tags
